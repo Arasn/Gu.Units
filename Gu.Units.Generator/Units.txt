@@ -1,3 +1,101 @@
+{ 
+   "Parts": [ 
+	 { 
+	   "UnitName": "Newtons", 
+	   "Power": 1 
+	 }, 
+	 { 
+	   "UnitName": "Centemeter", 
+	   "Power": 100 
+	 } 
+   ], 
+   "Name": "NewtonCentemeter", 
+   "Symbol": "Ncm", 
+   "QuantityName": "Momentum", 
+   "FactorConversions": [], 
+   "CustomConversions": [], 
+   "PrefixConversions": [], 
+   "PartConversions": [] 
+}, 
+{ 
+   "Parts": [ 
+	 { 
+	   "UnitName": "Newtons", 
+	   "Power": 1 
+	 }, 
+	 { 
+	   "UnitName": "Foot", 
+	   "Power": 0.7376 
+	 } 
+   ], 
+   "Name": "Foot_Pound", 
+   "Symbol": "ft-lb", 
+   "QuantityName": "Momentum", 
+   "FactorConversions": [], 
+   "CustomConversions": [], 
+   "PrefixConversions": [], 
+   "PartConversions": [] 
+}, 
+{ 
+   "Parts": [ 
+	 { 
+	   "UnitName": "Newtons", 
+	   "Power": 1 
+	 }, 
+	 { 
+	   "UnitName": "Inch", 
+	   "Power": 8.85 
+	 } 
+   ], 
+   "Name": "Inch_Pound", 
+   "Symbol": "in-lb", 
+   "QuantityName": "Momentum", 
+   "FactorConversions": [], 
+   "CustomConversions": [], 
+   "PrefixConversions": [], 
+   "PartConversions": [] 
+}, 
+{ 
+   "Parts": [ 
+	 { 
+	   "UnitName": "Newtons", 
+	   "Power": 1 
+	 }, 
+	 { 
+	   "UnitName": "Kilogram_Meter", 
+	   "Power": 0.10197
+	 } 
+   ], 
+   "Name": "Kilogram_Meter", 
+   "Symbol": "kg-m", 
+   "QuantityName": "Momentum", 
+   "FactorConversions": [], 
+   "CustomConversions": [], 
+   "PrefixConversions": [], 
+   "PartConversions": [] 
+}, 
+{ 
+   "Parts": [ 
+	 { 
+	   "UnitName": "Newtons", 
+	   "Power": 1 
+	 }, 
+	 { 
+	   "UnitName": "Kilogram_Centemeter", 
+	   "Power": 10.197
+	 } 
+   ], 
+   "Name": "Kilogram_Centemeter", 
+   "Symbol": "kg-cm", 
+   "QuantityName": "Momentum", 
+   "FactorConversions": [], 
+   "CustomConversions": [], 
+   "PrefixConversions": [], 
+   "PartConversions": [] 
+}, 
+
+
+
 {
   "Prefixes": [
     {
